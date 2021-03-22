@@ -3,18 +3,12 @@
 https://
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="GERMANY",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="GERMANY",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="GERMANY",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" tvg-logo="http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="GERMANY",ARTE
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" tvg-logo="http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="GERMANY",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="ServusTV HD" tvg-id="ServusHD.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png" group-title="GERMANY",ServusTV HD
 https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="GERMANY",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name="ONE HD" tvg-id="One.de" tvg-logo="http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="GERMANY",ONE HD
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 #EXTINF:-1 tvg-name="Radio Bremen TV HD" tvg-id="RadioBremen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png" group-title="GERMANY",Radio Bremen TV HD
@@ -43,8 +37,6 @@ https://mcdn.br.de/bfs_sued/de/master.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="GERMANY",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1 tvg-name="*** NEWS DE - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/R7WYRQu.png" group-title="GERMANY",*** NEWS DE - github.com/Free-IPTV
-http://
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" tvg-logo="http://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/black/84x48.png" group-title="GERMANY",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" tvg-logo="http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="GERMANY",WELT
@@ -63,14 +55,10 @@ https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 #EXTINF:-1 tvg-name="Deutsche Welle+" tvg-id="DeutscheWelle+DE.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
-#EXTINF:-1 tvg-name="*** SPORT DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/2FpMtZ5.jpg",*** SPORT DE - github.com/Free-IPTV
-http://
 #EXTINF:-1 tvg-name="FIFA Club WM" tvg-id="" group-title="GERMANY" tvg-logo="https://i.imgur.com/5RDKZk5.jpg",FIFA Club WM
 https://bildlivehls-lh.akamaihd.net/i/fifa0208_1@330807/index_2328_av-p.m3u8?sd=10&b=0-2500&rebase=on
 #EXTINF:-1 tvg-name="Sky Sport News HD - github.com/Free-IPTV" tvg-id="SkySportNewsHD.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/skysportnewshd.png",Sky Sport News HD - github.com/Free-IPTV
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
-#EXTINF:-1 tvg-name="*** KIDS DE - github.com/Free-IPTV" group-title="GERMANY" tvg-logo="https://i.imgur.com/ZrMKFWa.png" group-title="GERMANY",*** KIDS DE - github.com/Free-IPTV
-http://
 #EXTINF:-1 tvg-name="Kika" tvg-id="Kika.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/qodAT7g.jpg",Kika
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="GERMANY" tvg-logo="https://i.imgur.com/yka7yJm.png",Nickelodeon
