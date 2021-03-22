@@ -21,3 +21,13 @@ http://live.syri.tv:6969/live/syriblue/hd/23.ts
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-name="Zjarr TV" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr TV (1080p)
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 2" tvg-logo="https://i.imgur.com/QZSxxH9.png" group-title="ALBANIA",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Jaep9ly.png" group-title="ALBANIA",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 4" tvg-logo="https://i.imgur.com/mEsYfFv.png" group-title="ALBANIA",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium TV" tvg-logo="https://i.imgur.com/XLeth50.jpg" group-title="ALBANIA",Premium TV
+http://premium-channel.tv:88/live/kali.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="https://i.imgur.com/Ac4Hfui.jpg" group-title="ALBANIA",Report TV
+http://51.195.88.12:4050/live/reportmobpp3/playlist.m3u8
